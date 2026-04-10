@@ -1,0 +1,7 @@
+.terraform/
+.cache/
+.codeoss/
+.gemini/
+.npm/
+terraform.tfstate*
+.bash_history
